@@ -31,4 +31,5 @@
 			
 			
 ## • Describe modern MLOps and how organizations should be approaching management from a tool and system perspective.
-MLOps would focus on establishing data lakes through providing data as structured and unstructured in order to make it more efficiently for data scientists to access the data in the programming language of there choosing. Since MLOps can extract and load the raw data into a data lake, which can give free will to a data scientist to transform the data into what ever format they feel is useful for exploratory investigation and analysis. MLOps jobs is to speed up the data pipeline for data scientists.![image](https://user-images.githubusercontent.com/62851371/155911221-46afc779-9407-418b-9efe-a0de61b8953e.png)
+MLOps would focus on establishing data lakes through providing data as structured and unstructured in order to make it more efficiently for data scientists to access the data in the programming language of there choosing. Since MLOps can extract and load the raw data into a data lake, which can give free will to a data scientist to transform the data into what ever format they feel is useful for exploratory investigation and analysis. MLOps jobs is to speed up the data pipeline for data scientists.
+
