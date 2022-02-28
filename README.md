@@ -2,7 +2,7 @@
 
 ## • What is a Data Lake? Explain its benefits, how it differs from a data warehouse, and how it might benefit a client. 
 
-	Data Lake general focus is to store high volume and high variety of structured and unstructured data. Data lake ability to house large amount of unstructured and structured data allows for the usage of information to be utilized for the purpose of machine learning, user profiling and data discovery. As compared to Data Warehouse main focus on structured data which is useful for reporting, data visualization, dashboards and business intelligence. Data Lake allows for more exploration and research from Data scientists in order to find insights, undiscovered correlational, and ad hoc investigation of information from structured and unstructured data. 
+Data Lake general focus is to store high volume and high variety of structured and unstructured data. Data lake ability to house large amount of unstructured and structured data allows for the usage of information to be utilized for the purpose of machine learning, user profiling and data discovery. As compared to Data Warehouse main focus on structured data which is useful for reporting, data visualization, dashboards and business intelligence. Data Lake allows for more exploration and research from Data scientists in order to find insights, undiscovered correlational, and ad hoc investigation of information from structured and unstructured data. 
 	
 ## • Explain serverless architecture.  What are its pros and cons?
 	• Pros
